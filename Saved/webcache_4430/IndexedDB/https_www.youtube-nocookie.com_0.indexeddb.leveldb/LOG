@@ -1,0 +1,6 @@
+2024/01/25-18:32:22.868 76f0 Creating DB C:/Users/akhil/OneDrive/Documents/0 - Spring 24/CS 415/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/25-18:32:22.894 76f0 Reusing MANIFEST C:/Users/akhil/OneDrive/Documents/0 - Spring 24/CS 415/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/25-18:37:33.518 2814 Level-0 table #5: started
+2024/01/25-18:37:33.548 2814 Level-0 table #5: 1166 bytes OK
+2024/01/25-18:37:33.549 2814 Delete type=0 #3
+2024/01/25-18:37:33.550 2814 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
